@@ -13,7 +13,7 @@
 
 # 📌 Project Overview
 
-> A complete implementation of Linear Regression and Gradient Descent algorithms from scratch using Python.
+> A complete implementation of Linear Regression and Gradient Descent algorithms from scratch using Python.  
 > A complete implementation of **Linear Regression** and multiple variants of **Gradient Descent Algorithms** from scratch using Python, NumPy, and Matplotlib.
 
 This project demonstrates the mathematical intuition behind:
