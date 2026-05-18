@@ -1,5 +1,19 @@
 # 🚀 Gradient Descent & Linear Regression From Scratch
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-orange?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-black?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-f7931e?style=for-the-badge&logo=scikitlearn)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+
+---
+
+# 📌 Project Overview
+
+> A complete implementation of Linear Regression and Gradient Descent algorithms from scratch using Python.
 > A complete implementation of **Linear Regression** and multiple variants of **Gradient Descent Algorithms** from scratch using Python, NumPy, and Matplotlib.
 
 This project demonstrates the mathematical intuition behind:
@@ -192,19 +206,7 @@ By completing this project, you will understand:
 
 # 👨‍💻 Author
 
-## Abu Sharif
-
-Passionate about:
-- 🤖 Machine Learning
-- 📊 Data Science
-- 🧠 Deep Learning
-- 📐 Mathematics behind AI
-
----
-
-# 📜 License
-
-This project is licensed under the **MIT License**.
+## **Sharif Abusad**
 
 ---
 
